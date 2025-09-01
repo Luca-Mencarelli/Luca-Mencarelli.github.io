@@ -20,27 +20,29 @@ I received B.S. and M.Sc. degrees in Industrial Engineering and Management Scien
 In December 2017, I received the PhD degree in Computer Science under the supervision of [https://www.lix.polytechnique.fr/~liberti/ Prof. Leo Liberti] and  [https://www.lix.polytechnique.fr/~dambrosio/ Prof. Claudia D{{&rsquo;}}Ambrosio] at [https://www.lix.polytechnique.fr/ LIX, Laboratoire d{{&rsquo;}}Informatique] de l{{&rsquo;}}[https://www.polytechnique.edu/en {{&Eacute;}}cole Polytechnique], Paris ([https://pastel.archives-ouvertes.fr/tel-01784066/ Thesis]: The Multiplicative Weights Update Algorithm for Mixed Integer NonLinear Programming: Theory, Applications, and Limitations). 
 
 == Professional Experiences
-I have been Postdoctoral fellow at [https://www.ifpenergiesnouvelles.fr/ IFP Energies nouvelles] (topic: Process synthesis and optimization: development and evaluation of approaches coupling simulation and optimization techniques) under the supervision of [mailto:alexandre.pagot@ifpen.fr Alexandre Pagot]. 
+I have been a Postdoctoral fellow at [https://www.ifpenergiesnouvelles.fr/ IFP Energies nouvelles] (topic: Process synthesis and optimization: development and evaluation of approaches coupling simulation and optimization techniques) under the supervision of [mailto:alexandre.pagot@ifpen.fr Alexandre Pagot]. 
 
-Moreover, I have been Postdoctoral fellow at [https://cermics-lab.enpc.fr/ CERMICS, {{&Eacute;}}cole des Ponts] (topic: Matrix factorization for Time Series) under the supervision of [https://ydecastro.github.io/ Prof. Yohann De Castro].
+Moreover, I have been a Postdoctoral fellow at [https://cermics-lab.enpc.fr/ CERMICS, {{&Eacute;}}cole des Ponts] (topic: Matrix factorization for Time Series) under the supervision of [https://ydecastro.github.io/ Prof. Yohann De Castro].
 
-Finally, I have been Postdoctoral fellow at [https://uma.ensta-paris.fr/ UMA, ENSTA Paris] (topic: QP/NLP-based Branch-and-Bound Framework) under the supervision of [https://perso.ensta-paris.fr/~elloumi/ Prof. Sourour Elloumi].
+Finally, I have been a Postdoctoral fellow at [https://uma.ensta-paris.fr/ UMA, ENSTA Paris] (topic: QP/NLP-based Branch-and-Bound Framework) under the supervision of [https://perso.ensta-paris.fr/~elloumi/ Prof. Sourour Elloumi].
 
 == Teaching Experiences
 
 Discrete Optimization, ENSTA Paris, Palaiseau (France) for the academic year 2022-2023
 
-Operations Research, University of Pisa, Pisa (Italy) for the academic year 2023-2024
+Operations Research, University of Pisa, Pisa (Italy) for the academic years 2023-2024, 2024-2025, and 2025-2026
 
 == Research
 My research interests include: 
-- Mixed Integer Nonlinear Programming
+- Mixed Integer (Non)linear Programming
 - Portfolio Selection Applications
 - Chemical Superstructure Optimization
 - Nonnegative Matrix Factorization
 
 #[research.html Find out more].
 === List of Publications 
+. G. Lanza, L. Mencarelli. Continuous-Time Scheduled Service Network Design with Piecewise Linear Costs. AIRO-ODS 2025 (accepted), 2025.
+. D. Fioriti, A. Pampado, C. Scarpelli, G. Pasini, G. Lutzemberger, S. Barsali, D. Poli, D. Meoli, L. Mencarelli, A. Frangioni. Enhancing Energy System Modelling with advanced mathematical decomposition techniques: feasibility of coupling SMS++ and PyPSA, IEEE EEEIC 2025 (accepted), 2025
 . L. Mencarelli, J. Floquet. Decomposition-based heuristic approaches for the satellite constellation design problem. Engineering Optimization (accepted), 2024.
 . A. Frangioni, L. Galli, L. Mencarelli. Delay Constrained Routing: the Multi-Flow Single-Path Case. AIRO-ODS 2024 (accepted), 2024.
 . L. Mencarelli. MWU 2.0 with Approximation Guarantee for the Distance Geometry Problem. Optimization and Decision Science: Operations Research, Inclusion and Equity, AIRO Series 9, pp. 71–81, Springer, Cham, 2023.
